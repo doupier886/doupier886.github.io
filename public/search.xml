@@ -29,4 +29,13 @@
         <tag>日记</tag>
       </tags>
   </entry>
+  <entry>
+    <title>page1</title>
+    <url>/2021/03/11/page1/</url>
+    <content><![CDATA[<p>mustache模板<br>虚拟dom和diff算法<br>数据变化侦测<br>AST抽象语法树<br>指令和生命周期</p>
+]]></content>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
 </search>
