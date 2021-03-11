@@ -3007,7 +3007,7 @@ pre .javascript .function {
     opacity: 0.9;
   }
   .posts-expand .post-title-link::before {
-    background-image: linear-gradient(90deg, #000000 0%, #445700 25%, #77cf04 50%, #d6c4c9 75%, #e9e7e9 100%);
+    background-image: linear-gradient(90deg, #a166ab 0%, #ef4e7b 25%, #f37055 50%, #ef4e7b 75%, #a166ab 100%);
   }
   code {
     color: #ff7600;
