@@ -1,60 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>欢迎来到doupier的小站</title>
-    <url>/2021/03/11/hello-world/</url>
-    <content><![CDATA[<p>没错啦！<br>这就是神奇女侠豆皮的中文个人首站！欢迎各位关注我的B站<a href="https://space.bilibili.com/8121978">硬核前端美少女战士</a></p>
-<h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><h3 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h3><p>自由<br>前端工程师<br>一级学习<br>爱好者</p>
-<h3 id="时间安排"><a href="#时间安排" class="headerlink" title="时间安排"></a>时间安排</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">周一~周五 9：00-21：00</span><br><span class="line">周六~周日 勿扰</span><br></pre></td></tr></table></figure>
-
-
-<h3 id="学习宣言"><a href="#学习宣言" class="headerlink" title="学习宣言"></a>学习宣言</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">不学习就挨大打</span><br></pre></td></tr></table></figure>
-
-
-<h3 id="毕业时间"><a href="#毕业时间" class="headerlink" title="毕业时间"></a>毕业时间</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">2021.06.20</span><br></pre></td></tr></table></figure>
-
-]]></content>
-  </entry>
-  <entry>
-    <title>第一篇文章</title>
-    <url>/2021/03/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h2 id="关于如何更改背景颜色"><a href="#关于如何更改背景颜色" class="headerlink" title="关于如何更改背景颜色"></a>关于如何更改背景颜色</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>找到文件夹下的themes</p>
-<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>按照以下路径找到文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">netx/<span class="built_in">source</span>/css_variables/base.styl</span><br></pre></td></tr></table></figure>
-<h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>在第20行找到</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="variable">$balck</span>-deep</span><br></pre></td></tr></table></figure>
-<h3 id="第四步"><a href="#第四步" class="headerlink" title="第四步"></a>第四步</h3><p>修改其中的颜色</p>
-<h3 id="第五步"><a href="#第五步" class="headerlink" title="第五步"></a>第五步</h3><p>大功告成</p>
-<img src="/images/deng-01.png">]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>page1</title>
-    <url>/2021/03/11/page1/</url>
-    <content><![CDATA[<p>mustache模板<br>虚拟dom和diff算法<br>数据变化侦测<br>AST抽象语法树<br>指令和生命周期</p>
-]]></content>
-      <tags>
-        <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>小恐龙的故事</title>
-    <url>/2021/03/12/%E5%B0%8F%E6%81%90%E9%BE%99%E7%9A%84%E6%95%85%E4%BA%8B/</url>
-    <content><![CDATA[<h2 id="奔跑吧！小恐龙"><a href="#奔跑吧！小恐龙" class="headerlink" title="奔跑吧！小恐龙"></a>奔跑吧！小恐龙</h2><img src="/images/xkl.png">
-在你的电脑里藏着一个名叫T-Rex的内置小游戏，主角是一只恐龙
-
-
-<p>打开谷歌浏览器(Chrome)<br>在离线状态下会发现有一只呆呆的霸王龙<br><img src="/images/xkl-1.png"></p>
-<p>在断网状态下，你可以用空格键控制唤醒它<br>画面出现贫瘠的土地，天空中时不时飘出两朵白云<br><img src="/images/xkl-2.png"></p>
-<p>控制这只自动前行的小恐龙，帮它越过扎扎的仙人掌、躲过致命的乌鸦。<br><img src="/images/xkl-3.png"></p>
-<p>虽然大多数情况下，它会不小心顶到扎人仙人掌或和黑乌鸦抱个满怀<br>这时候游戏也就结束了<br><img src="/images/xkl-4.5.png"><br><img src="/images/xkl-4.png"></p>
-<p>但只要按下空格，我们的小恐龙就会回到最初的状态<br>站起来抖抖身上的尘土，眼神坚毅地勇往直前，永不停息</p>
-<p>它会蹲下来躲过乌鸦的攻击<br><img src="/images/xkl-5.png"><br>或者扑棱跳起来越过一大排仙人掌<br><img src="/images/xkl-6.png"><br>昼夜更迭，披星戴月<br><img src="/images/xkl-7.png"></p>
-<h2 id="送给步履不停的小恐龙和你"><a href="#送给步履不停的小恐龙和你" class="headerlink" title="送给步履不停的小恐龙和你"></a>送给步履不停的小恐龙和你</h2>]]></content>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>小恐龙的故事</title>
+      <link href="2021/03/12/%E5%B0%8F%E6%81%90%E9%BE%99%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+      <url>2021/03/12/%E5%B0%8F%E6%81%90%E9%BE%99%E7%9A%84%E6%95%85%E4%BA%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="奔跑吧！小恐龙"><a href="#奔跑吧！小恐龙" class="headerlink" title="奔跑吧！小恐龙"></a>奔跑吧！小恐龙</h2><img src="/images/xkl.png">在你的电脑里藏着一个名叫T-Rex的内置小游戏，主角是一只恐龙<p>打开谷歌浏览器(Chrome)<br>在离线状态下会发现有一只呆呆的霸王龙<br><img src="/images/xkl-1.png"></p><p>在断网状态下，你可以用空格键控制唤醒它<br>画面出现贫瘠的土地，天空中时不时飘出两朵白云<br><img src="/images/xkl-2.png"></p><p>控制这只自动前行的小恐龙，帮它越过扎扎的仙人掌、躲过致命的乌鸦。<br><img src="/images/xkl-3.png"></p><p>虽然大多数情况下，它会不小心顶到扎人仙人掌或和黑乌鸦抱个满怀<br>这时候游戏也就结束了<br><img src="/images/xkl-4.5.png"><br><img src="/images/xkl-4.png"></p><p>但只要按下空格，我们的小恐龙就会回到最初的状态<br>站起来抖抖身上的尘土，眼神坚毅地勇往直前，永不停息</p><p>它会蹲下来躲过乌鸦的攻击<br><img src="/images/xkl-5.png"><br>或者扑棱跳起来越过一大排仙人掌<br><img src="/images/xkl-6.png"><br>昼夜更迭，披星戴月<br><img src="/images/xkl-7.png"></p><h2 id="送给步履不停的小恐龙和你"><a href="#送给步履不停的小恐龙和你" class="headerlink" title="送给步履不停的小恐龙和你"></a>送给步履不停的小恐龙和你</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>page1</title>
+      <link href="2021/03/11/page1/"/>
+      <url>2021/03/11/page1/</url>
+      
+        <content type="html"><![CDATA[<p>mustache模板<br>虚拟dom和diff算法<br>数据变化侦测<br>AST抽象语法树<br>指令和生命周期</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇文章</title>
+      <link href="2021/03/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>2021/03/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="关于如何更改背景颜色"><a href="#关于如何更改背景颜色" class="headerlink" title="关于如何更改背景颜色"></a>关于如何更改背景颜色</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>找到文件夹下的themes</p><h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>按照以下路径找到文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">netx/<span class="built_in">source</span>/css_variables/base.styl</span><br></pre></td></tr></table></figure><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>在第20行找到</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$balck</span>-deep</span><br></pre></td></tr></table></figure><h3 id="第四步"><a href="#第四步" class="headerlink" title="第四步"></a>第四步</h3><p>修改其中的颜色</p><h3 id="第五步"><a href="#第五步" class="headerlink" title="第五步"></a>第五步</h3><p>大功告成</p><img src="/images/deng-01.png">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>欢迎来到doupier的小站</title>
+      <link href="2021/03/11/hello-world/"/>
+      <url>2021/03/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>没错啦！<br>这就是神奇女侠豆皮的中文个人首站！欢迎各位关注我的B站<a href="https://space.bilibili.com/8121978">硬核前端美少女战士</a></p><h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><h3 id="我是谁？"><a href="#我是谁？" class="headerlink" title="我是谁？"></a>我是谁？</h3><p>自由<br>前端工程师<br>一级学习<br>爱好者</p><h3 id="时间安排"><a href="#时间安排" class="headerlink" title="时间安排"></a>时间安排</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">周一~周五 9：00-21：00</span><br><span class="line">周六~周日 勿扰</span><br></pre></td></tr></table></figure><h3 id="学习宣言"><a href="#学习宣言" class="headerlink" title="学习宣言"></a>学习宣言</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">不学习就挨大打</span><br></pre></td></tr></table></figure><h3 id="毕业时间"><a href="#毕业时间" class="headerlink" title="毕业时间"></a>毕业时间</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">2021.06.20</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
